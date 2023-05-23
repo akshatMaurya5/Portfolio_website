@@ -11,9 +11,10 @@ export default [
     // imgUrl: "/../news.jpg",
     imgUrl:
       "https://www.redwolf.in/image/catalog/coasters/isro-logo-coaster-india.jpg",
-    tech: ["ReactJs", "Express", "NodeJs", "MongoDb"],
+    tech: ["ReactJs", "Express", "NodeJs", "MongoDb", "Socket.Io"],
+    workUrl:"https://www.veed.io/view/e582709a-5751-4c59-b8c0-dd9d5cadb899?panel=share",
+
     //link is yet to be updated.
-    workUrl: "https://job-trackr.onrender.com/landing",
   },
   {
     title: "समाचार : A News App.",

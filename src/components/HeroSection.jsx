@@ -5,12 +5,12 @@ function HeroSection() {
 		<div id="hero" className="flex items-center justify-center flex-col py-20">
 			<div className="text-center">
 				<h1 className="text-2xl md:text-4xl mb-1 md:mb-3 text-indigo-600 dark:text-indigo-500 font-semibold">
-					Hi,.. This is Akshat Maurya.
+					Hi, This is Akshat Maurya.
 				</h1>
 				<p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
 					B.Tech - Dr. BR Ambedkar National Institute of Technology{' '}
 					<br></br>
-					ECE | 24
+					ECE | 2024
 				</p>
 				<a
 					href="#works"
@@ -18,6 +18,7 @@ function HeroSection() {
 				>
 					See Works
 				</a>
+				
 			</div>
 		</div>
 	);
