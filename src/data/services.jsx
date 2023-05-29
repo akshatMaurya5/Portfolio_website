@@ -9,7 +9,7 @@ export default [
   {
     title: "Leetcode",
     icon: <MdWeb className="w-full h-full" />,
-    link: "https://leetcode.com/heisenberg_5/",
+    link: "https://leetcode.com/tirederit_5/",
 
     description:
       // "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.",
